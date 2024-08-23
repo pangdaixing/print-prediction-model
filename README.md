@@ -13,3 +13,4 @@ Regarding the printhead data, due to the complexity of processing, we are only u
 Therefore, for our experiments, we only use the first two printhead groups and restrict the image data to regions within their gamut. Within this range, the color regression and fitting perform well.
 
 Here, I use the image of the fruit as the training set. The training set is much smaller than the dataset, proving that the model has strong generalization ability within this color gamut. The links to the image and dataset are provided below:
+https://mega.nz/folder/WZh0FKhT#_iFxhbAEXb3jf6SPjzOghQ
